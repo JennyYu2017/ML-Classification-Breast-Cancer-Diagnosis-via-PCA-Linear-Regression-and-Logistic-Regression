@@ -9,3 +9,4 @@ Machine Learning Repository(https://archive.ics.uci.edu/ml/datasets/breast+cance
 Matlab
 
 # Conclusion
+![Performance Comparation of Different Machine Learning Models](https://github.com/JennyYu2017/Machine-Learning--Breast-Cancer-Diagnosis-via-Different-Machine-Learning-Techniques/blob/master/Performance%20Comparation%20on%20Different%20Machine%20Learning%20Models.png)
